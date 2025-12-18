@@ -1,0 +1,5 @@
+{
+  "name": "CloudView Dashboard",
+  "description": "A unified cloud application performance monitoring dashboard integrating AWS, Azure, and GCP metrics with intelligent alerting and cost analysis.",
+  "requestFramePermissions": []
+}
